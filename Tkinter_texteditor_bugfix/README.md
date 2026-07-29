@@ -22,3 +22,19 @@ Students are expected to modify the implementation so that text-level styling is
 - [https://github.com/anshulhub/My-Editter](https://github.com/anshulhub/My-Editter)
 
 `Note`: A lot of code has been changed from the reference, and the reference itself has the same problem, therefore, I do not believe you can solve the problem using the reference.
+
+## Screenshots
+
+### Before
+
+![Before 1](screenshots/before_png/01.png)
+
+![Before 2](screenshots/before_png/02.png)
+
+![Before 3](screenshots/before_png/03.png)
+
+### After
+
+![After 1](screenshots/after_png/image.png)
+
+
