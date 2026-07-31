@@ -1,0 +1,4 @@
+PlayerName,Score
+Alice,1500
+Bob,2200
+Charlie,980
