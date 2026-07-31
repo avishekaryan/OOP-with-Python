@@ -1,0 +1,8 @@
+1. Added using write()
+2. Another write line
+3. Apple (writelines)
+4. Banana (writelines)
+5. Cherry (writelines)
+6. Printed line 1
+7. Printed line 2
+8. Printed line 3
