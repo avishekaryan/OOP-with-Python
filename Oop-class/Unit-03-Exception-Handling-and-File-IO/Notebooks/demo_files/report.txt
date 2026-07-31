@@ -1,0 +1,7 @@
+=== Weekly Shopping Report ===
+Total items: 5
+  1. Apples
+  2. Bread
+  3. Milk
+  4. Cheese
+  5. Eggs
